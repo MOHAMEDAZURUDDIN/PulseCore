@@ -1,0 +1,305 @@
+[
+  {
+    "id": "1x0x1",
+    "name": "Gucci Leather",
+    "price": 198,
+    "description": "Premium leather and iconic design.",
+    "ratings": 5,
+    "images": [
+      "/images/products/gucchi1.png",
+      "/images/products/gucchi2.png",
+      "/images/products/gucchi3.png",
+      "/images/products/gucchi4.png"
+    ],
+    "seller": "LuxuryBags",
+    "stock": 15,
+    "numOfReviews": 44,
+    "reviews": []
+  },
+  {
+    "id": "1x0x2",
+    "name": "Timberland Boots",
+    "price": 150,
+    "description": "Durable boots for all terrains.",
+    "ratings": 4.7,
+    "images": [
+      "/images/products/timberlandB1.png",
+      "/images/products/timberlandB2.png",
+      "/images/products/timberlandB3.png",
+      "/images/products/timberlandB4.png"
+    ],
+    "seller": "OutdoorGear",
+    "stock": 18,
+    "numOfReviews": 61,
+    "reviews": []
+  },
+  {
+    "id": "1x0x3",
+    "name": "Ray-Ban Wayfarer",
+    "price": 212,
+    "description": "Iconic style with UV protection.",
+    "ratings": 4.6,
+    "images": [
+      "/images/products/rayban1.png",
+      "/images/products/rayban2.png",
+      "/images/products/rayban3.png",
+      "/images/products/rayban4.png"
+    ],
+    "seller": "VisionWorld",
+    "stock": 19,
+    "numOfReviews": 158,
+    "reviews": []
+  },
+  {
+    "id": "1x0x4",
+    "name": "Balenciaga Shoes",
+    "price": 11,
+    "description": "Premium designer sneakers with a bold look.",
+    "ratings": 4.8,
+    "images": [
+      "/images/products/balenciaga1.png",
+      "/images/products/balenciaga2.png",
+      "/images/products/balenciaga3.png",
+      "/images/products/balenciaga4.png"
+    ],
+    "seller": "LuxuryStep",
+    "stock": 10,
+    "numOfReviews": 80,
+    "reviews": []
+  },
+  {
+    "id": "1x0x5",
+    "name": "Apple Series",
+    "price": 516,
+    "description": "Advanced features and sleek design.",
+    "ratings": 4,
+    "images": [
+      "/images/products/apple-watch1.png",
+      "/images/products/apple-watch2.png",
+      "/images/products/apple-watch3.png",
+      "/images/products/apple-watch5.png"
+    ],
+    "seller": "TechHub",
+    "stock": 15,
+    "numOfReviews": 148,
+    "reviews": []
+  },
+  {
+    "id": "1x0x6",
+    "name": "Herschel Backpack",
+    "price": 120,
+    "description": "Stylish and durable for everyday use.",
+    "ratings": 4.5,
+    "images": [
+      "/images/products/herchel1.png",
+      "/images/products/herchel2.png",
+      "/images/products/herchel3.png",
+      "/images/products/HerschelBackbag1.png"
+    ],
+    "seller": "BagStore",
+    "stock": 27,
+    "numOfReviews": 76,
+    "reviews": []
+  },
+  {
+    "id": "1x0x7",
+    "name": "Leather Boots",
+    "price": 178,
+    "description": "Durable and stylish leather boots for men.",
+    "ratings": 4.7,
+    "images": [
+      "/images/products/boots1.png",
+      "/images/products/boots2.png",
+      "/images/products/boots3.png"
+    ],
+    "seller": "BootMasters",
+    "stock": 15,
+    "numOfReviews": 95,
+    "reviews": []
+  },
+  {
+    "id": "1x0x8",
+    "name": "Men's Gloves",
+    "price": 20,
+    "description": "Warm and stylish gloves for men.",
+    "ratings": 4.4,
+    "images": [
+      "/images/products/gloves1.png",
+      "/images/products/gloves2.png",
+      "/images/products/gloves3.png",
+      "/images/products/gloves4.png"
+    ],
+    "seller": "WinterWear",
+    "stock": 40,
+    "numOfReviews": 90,
+    "reviews": []
+  },
+  {
+    "id": "1x0x9",
+    "name": "Men's Ring",
+    "price": 12,
+    "description": "Elegant and stylish ring for men.",
+    "ratings": 4.6,
+    "images": [
+      "/images/products/ring1.png",
+      "/images/products/ring2.png",
+      "/images/products/ring3.png",
+      "/images/products/ring4.png"
+    ],
+    "seller": "StyleTrend",
+    "stock": 35,
+    "numOfReviews": 80,
+    "reviews": []
+  },
+  {
+    "id": "1x0x10",
+    "name": "Men's Bracelet",
+    "price": 18,
+    "description": "Elegant and stylish bracelet for men.",
+    "ratings": 4.5,
+    "images": [
+      "/images/products/bracelet1.png",
+      "/images/products/bracelet2.png",
+      "/images/products/bracelet3.png"
+    ],
+    "seller": "StyleTrend",
+    "stock": 30,
+    "numOfReviews": 110,
+    "reviews": []
+  },
+  {
+    "id": "1x0x11",
+    "name": "Men's Locket",
+    "price": 14,
+    "description": "Stylish and modern locket for men.",
+    "ratings": 4.5,
+    "images": [
+      "/images/products/locket1.png",
+      "/images/products/locket2.png",
+      "/images/products/locket3.png",
+      "/images/products/locket4.png"
+    ],
+    "seller": "TrendyGems",
+    "stock": 20,
+    "numOfReviews": 60,
+    "reviews": []
+  },
+  {
+    "id": "1x0x12",
+    "name": "Nike Air Max Shoes",
+    "price": 120,
+    "description": "High-performance and stylish Nike Air Max shoes.",
+    "ratings": 4.7,
+    "images": [
+      "/images/products/nike-air-max-1.png",
+      "/images/products/nike-air-max-2.png",
+      "/images/products/nike-air-max-3.png",
+      "/images/products/nike-air-max-4.png"
+    ],
+    "seller": "SportsHub",
+    "stock": 18,
+    "numOfReviews": 130,
+    "reviews": []
+  },
+  {
+    "id": "1x0x13",
+    "name": "Nike Alpha",
+    "price": 110,
+    "description": "Premium quality Nike Alpha running shoes.",
+    "ratings": 4.8,
+    "images": [
+      "/images/products/nike-alphafly-1.png",
+      "/images/products/nike-alphafly-2.png",
+      "/images/products/nike-alphafly-3.png"
+    ],
+    "seller": "SportsHub",
+    "stock": 12,
+    "numOfReviews": 100,
+    "reviews": []
+  },
+  {
+    "id": "1x0x14",
+    "name": "Urban Monkey Cap",
+    "price": 18,
+    "description": "Classic cap for any occasion.",
+    "ratings": 4.3,
+    "images": [
+      "/images/products/urbanmonkey1.png",
+      "/images/products/urbanmonkey2.png",
+      "/images/products/urbanmonkey3.png",
+      "/images/products/urbanmonkey4.png"
+    ],
+    "seller": "CapWorld",
+    "stock": 22,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "id": "1x0x15",
+    "name": "Cowboy Hat",
+    "price": 12,
+    "description": "Traditional style with modern comfort.",
+    "ratings": 2.8,
+    "images": [
+      "/images/products/cowboyround1.png",
+      "/images/products/cowboyround2.png",
+      "/images/products/cowboyround3.png",
+      "/images/products/cowboyround4.png"
+    ],
+    "seller": "WesternStyle",
+    "stock": 15,
+    "numOfReviews": 28,
+    "reviews": []
+  },
+  {
+    "id": "1x0x16",
+    "name": "Adidas Ultraboost",
+    "price": 198,
+    "description": "Top-notch comfort for runners.",
+    "ratings": 4.9,
+    "images": [
+      "/images/products/adidas1.png",
+      "/images/products/adidas2.png",
+      "/images/products/adidas3.png",
+      "/images/products/adidas4.png"
+    ],
+    "seller": "SneakerShop",
+    "stock": 25,
+    "numOfReviews": 87,
+    "reviews": []
+  },
+  {
+    "id": "1x0x17",
+    "name": "Casio Watches",
+    "price": 22,
+    "description": "Classic and reliable Casio watch.",
+    "ratings": 4.6,
+    "images": [
+      "/images/products/casio1.png",
+      "/images/products/casio2.png",
+      "/images/products/casio3.png",
+      "/images/products/casio4.png"
+    ],
+    "seller": "TimeMaster",
+    "stock": 25,
+    "numOfReviews": 140,
+    "reviews": []
+  },
+  {
+    "id": "1x0x18",
+    "name": "Samsung Smart Watch",
+    "price": 350,
+    "description": "Feature-packed Samsung smartwatch.",
+    "ratings": 4.7,
+    "images": [
+      "/images/products/samsung1.png",
+      "/images/products/samsung2.png",
+      "/images/products/samsung3.png",
+      "/images/products/samsung4.png"
+    ],
+    "seller": "TechWorld",
+    "stock": 15,
+    "numOfReviews": 150,
+    "reviews": []
+  }
+]
