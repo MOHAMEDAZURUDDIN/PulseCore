@@ -1,0 +1,1 @@
+import{j as o,Q as n,E as s}from"./vendor-DRWF_35v.js";const c=({open:t,message:a,severity:i,handleClose:r})=>o.jsx(n,{open:t,autoHideDuration:2e3,onClose:r,anchorOrigin:{vertical:"top",horizontal:"right"},children:o.jsx(s,{onClose:r,severity:i,sx:{width:"100%"},children:a})});export{c as C};
