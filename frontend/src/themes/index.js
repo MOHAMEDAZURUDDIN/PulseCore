@@ -1,0 +1,31 @@
+export const Colors = {
+  primary: "#6c468f",
+  secondary: "#2eadc7",
+  success: "#33ff57",
+  seagreen: "#3cb371",
+  info: "#00a2ff",
+  danger: "#c42d1a",
+  orangered: "#ff4500",
+  warning: "#FFC107",
+  dark: "#0e1b20",
+  inverse: "#2F3D4A",
+  shaft: "#acc8d7",
+  midnightmonkey: "#556b2f",
+  dragonmonkey: "#12185C",
+  teal: "#008080",
+  // Grays
+  light: "#DDDFE1",
+  muted: "#abafb3",
+  dim_gray: "#696969",
+  border: "#ccc",
+  dove_gray: "#d5d5d5",
+  //  solid Color
+  white: "#fff",
+  black: "#000",
+  // New Neon & Dark Colors
+  neonGreen: "#00ffa3",
+  neonPink: "#ff3366",
+  deepBlack: "#0d0d0d",
+  darkGray: "#1a1a1a",
+  semiDark: "#2a2a2a",
+};
